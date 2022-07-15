@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @DeclanRoutledgeBBC
-- 👀 I’m interested in learning Scala
+-  I’m Junior Software Engineer 
+- 👀interested in becoming a better developer and human.
+- Let me know if you can help with either...
 
 
